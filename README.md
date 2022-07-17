@@ -1,6 +1,7 @@
 ### Hi there 👋
 🌱 I’m currently learning Information Technology at Uni SA and C programming at 42 Coding School.
-![](https://github-readme-stats.vercel.app/api?username=mayandev)
+
+![](https://github-readme-stats.vercel.app/api?username=Nancy Zhong)
 
 
 
