@@ -1,5 +1,12 @@
-### Hi there 👋
-🌱 I’m currently learning Information Technology at Uni SA and C programming at 42 Coding School.
+### Hey! I'm Nancy Zhong 👋
+
+A college student, lifelong learner and emerging life adventurer.
+
+
+🌱 A Bit About Me
+
+I'm an IT student and currently learning Information Technology at Uni SA and C programming at 42 Coding School.
+
 
 ![](https://github-readme-stats.vercel.app/api?username=Nancy0011)
 
